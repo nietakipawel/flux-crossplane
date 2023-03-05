@@ -11,5 +11,4 @@ spec:
   sourceRef:
     kind: GitRepository
     name: crossplane-demo
-  targetNamespace: default
-
+  # targetNamespace: default
